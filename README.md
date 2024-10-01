@@ -1,4 +1,4 @@
-# サムライスピリッツNEOGEOコレクション の サムライスピリッツ零
+# サムライスピリッツ零
 
 必要なファイル  
 tiles2crom.exe  
@@ -16,12 +16,12 @@ https://www.arcade-projects.com/threads/samurai-shodown-v-perfect-on-real-hardwa
 samsho5.bat  
 samsho5_crom.bat  
 
-なんか長いので分けたけど順番は関係ない。  
+なんか長いので分けた。順番は関係ない。  
 samsho5.zipに圧縮。
 
 samsho5a.bat  
 p1,p2の別バージョン  
-家庭用NEOGEO版の修正？
+家庭NEOGEO版の修正？
 
 その他
-270-s1.s1 必要ないけど一応コメントアウトで残した  
+270-s1.s1 一応コメントアウトで残す
