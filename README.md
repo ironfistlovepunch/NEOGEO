@@ -14,7 +14,7 @@ https://milkchoco.info/archives/3785
 
 https://www.arcade-projects.com/threads/samurai-shodown-v-perfect-on-real-hardware.13565/page-2#post-220180  
 
-手順  
+実行  
 samsho5.bat  
 samsho5_crom.bat  
 
