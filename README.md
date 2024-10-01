@@ -19,8 +19,9 @@ samsho5_crom.bat
 なんか長いので分けたけど順番は関係ない。  
 samsho5.zipに圧縮。
 
-おまけ  
 samsho5a.bat  
 p1,p2の別バージョン  
 家庭用NEOGEO版の修正？
+
+その他
 
