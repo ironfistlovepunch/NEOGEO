@@ -12,8 +12,8 @@ https://www.arcade-projects.com/threads/samurai-shodown-v-perfect-on-real-hardwa
 samsho5.bat  
 samsho5_crom.bat  
 
-なんか長いので分けただけで順番は関係ない。  
-ファイルをsamsho5.zipで圧縮。
+なんか長いので分けたけど順番は関係ない。  
+samsho5.zipに圧縮。
 
 おまけ  
 samsho5a.bat  
