@@ -1,6 +1,10 @@
 # サムライスピリッツNEOGEOコレクション
 
 必要なファイル  
+tiles2crom.exe  
+romcutter.exe  
+BSwap.exe と oddeven.txt  
+neo-cmc.exe
 
 参考  
 https://note.com/shigeshigeru/n/n2ad5ee92adb2  
